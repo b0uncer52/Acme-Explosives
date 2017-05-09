@@ -1,0 +1,40 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "Personal",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+        	"id": 1,
+        	"category": 0,
+        	"name": "Industrial",
+        	"description": "Fireworks intended for entertaining massive amounts of mammals"
+        },
+        {
+        	"id": 2,
+        	"category": 0,
+        	"name": "Imaginary",
+        	"description": "Not really there, but you can pretend"
+        },
+    	{
+            "id": 3,
+            "category": 1,
+            "name": "Small",
+            "description": "For blowing up small animals or walls or whatever you want to destroy"
+        },
+        {
+        	"id": 4,
+        	"category": 1,
+        	"name": "Construction",
+        	"description": "Explosives for destroying entire buildings"
+        },
+        {
+        	"id": 5,
+        	"category": 1,
+        	"name": "Military",
+        	"description": "Explosives for fighting the good fight...for the rich"
+        }
+    ]
+}
